@@ -1,4 +1,4 @@
 # Blog
 
-The website is published at https://green-ear-rabbit.github.io/blog/
+The website is previously published at https://green-ear-rabbit.github.io/blog/
 
