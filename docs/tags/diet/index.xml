@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diet on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/tags/diet/</link>
-    <description>Recent content in diet on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Diet on A Hugo website</title>
+    <link>http://localhost:4321/blog/tags/diet/</link>
+    <description>Recent content in Diet on A Hugo website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Nov 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/tags/diet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/tags/diet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An human experiment: How does pescetarian diet affect health</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</link>
+      <link>http://localhost:4321/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</link>
       <pubDate>Fri, 27 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</guid>
-      <description>IntroductionTo evaluate the effect the health effect of pescetarian diet, an two-month’s intervention study was conducted on a 19-year-old female, from April, 6th to July 12th, in 2019. Food frequency questionnaire were answered by the participant at baseline. Blood glucose, hemoglobin A1c (HbA1c), blood urea nitrogen (BUN), high-density lipoprotein (HDL), low-density lipoprotein (LDL), height and body weight were measured at both baseline and follow-up.
-LimitationsThe sample size is only one, because the author fail to find more volunteer to participate in this study.</description>
+      <guid>http://localhost:4321/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</guid>
+      <description>&lt;div id=&#34;introduction&#34; class=&#34;section level1&#34;&gt;&#xD;&#xA;&lt;h1&gt;Introduction&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;To evaluate the effect the health effect of pescetarian diet, an two-month’s intervention study was conducted on a 19-year-old female, from April, 6th to July 12th, in 2019. Food frequency questionnaire were answered by the participant at baseline. Blood glucose, hemoglobin A1c (HbA1c), blood urea nitrogen (BUN), high-density lipoprotein (HDL), low-density lipoprotein (LDL), height and body weight were measured at both baseline and follow-up.&lt;/p&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div id=&#34;limitations&#34; class=&#34;section level1&#34;&gt;&#xD;&#xA;&lt;h1&gt;Limitations&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;&lt;p&gt;The sample size is only one, because the author fail to find more volunteer to participate in this study.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

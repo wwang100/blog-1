@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>US on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/tags/us/</link>
+    <link>http://localhost:4321/blog/tags/us/</link>
     <description>Recent content in US on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jun 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/tags/us/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/tags/us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R visualization of epidemic in United States</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</link>
+      <link>http://localhost:4321/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</link>
       <pubDate>Sat, 27 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</guid>
-      <description>Epidemic in United StatesOn the another side of the world, however, the disease has rapidly transmitted through the world, especailly United States. As compare to China, it does not implement lockdown and social distancing policy at the early stage of the epidemic. But it’s true that, US’s mass screening and medical system performance has shown the its amazing health-care resources, which is shown in my previous assignment.</description>
+      <guid>http://localhost:4321/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</guid>
+      <description>&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/dygraphs/dygraph.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/dygraphs/dygraph-combined.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/dygraphs/shapes.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/moment/moment.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/moment-timezone/moment-timezone-with-data.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/moment-fquarter/moment-fquarter.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/dygraphs-binding/dygraphs.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;epidemic-in-united-states&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Epidemic in United States&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;On the another side of the world, however, the disease has rapidly transmitted through the world, especailly United States. As compare to China, it does not implement lockdown and social distancing policy at the early stage of the epidemic. But it’s true that, US’s mass screening and medical system performance has shown the its amazing health-care resources, which is shown in my previous assignment. However, many deaths should be preventable, and there is even more arguable policy recently.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

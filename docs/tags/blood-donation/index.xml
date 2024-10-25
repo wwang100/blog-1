@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blood donation on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/tags/blood-donation/</link>
-    <description>Recent content in blood donation on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Blood Donation on A Hugo website</title>
+    <link>http://localhost:4321/blog/tags/blood-donation/</link>
+    <description>Recent content in Blood Donation on A Hugo website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jun 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/tags/blood-donation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/tags/blood-donation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R visualization of Jilin Epidemic</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/06/28/r-visualization-of-jilin-epidemic/</link>
+      <link>http://localhost:4321/blog/2020/06/28/r-visualization-of-jilin-epidemic/</link>
       <pubDate>Sun, 28 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/06/28/r-visualization-of-jilin-epidemic/</guid>
-      <description>load packagesrequire(tidyverse) require(leaflet)require(leafletCN) if(require(rgeos)){require(rgeos)} else{install.packages((&amp;quot;rgeos&amp;quot;))}require(rgeos)require(maptools)New epicenter in China: Jilin, JilinWhere is Jilin in China?Sys.setlocale(&amp;#39;LC_ALL&amp;#39;, &amp;quot;Chinese&amp;quot;)## [1] &amp;quot;LC_COLLATE=Chinese (Simplified)_China.936;LC_CTYPE=Chinese (Simplified)_China.936;LC_MONETARY=Chinese (Simplified)_China.936;LC_NUMERIC=C;LC_TIME=Chinese (Simplified)_China.936&amp;quot;Due to a problem of leafletCN package, which cannot distingguish Jilin city and Jilin province (also Hainan city and Hainan province), it cannot use demomap() to demo the map of Jilin city or province (also Hainan), see in a open issue in [github repo] (https://github.</description>
+      <guid>http://localhost:4321/blog/2020/06/28/r-visualization-of-jilin-epidemic/</guid>
+      <description>&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-binding/plotly.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/typedarray/typedarray.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/plotly-main/plotly-latest.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/Proj4Leaflet/proj4-compressed.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;http://localhost:4321/blog/blog/rmarkdown-libs/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;load-packages&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;load packages&lt;/h2&gt;&#xD;&#xA;&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;require(tidyverse) &#xD;&#xA;require(leaflet)&#xD;&#xA;require(leafletCN) &#xD;&#xA;if(require(rgeos)){&#xD;&#xA;  require(rgeos)&#xD;&#xA;} else{&#xD;&#xA;  install.packages((&amp;quot;rgeos&amp;quot;))&#xD;&#xA;}&#xD;&#xA;require(rgeos)&#xD;&#xA;require(maptools)&lt;/code&gt;&lt;/pre&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div id=&#34;new-epicenter-in-china-jilin-jilin&#34; class=&#34;section level1&#34;&gt;&#xD;&#xA;&lt;h1&gt;New epicenter in China: Jilin, Jilin&lt;/h1&gt;&#xD;&#xA;&lt;div id=&#34;where-is-jilin-in-china&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Where is Jilin in China?&lt;/h2&gt;&#xD;&#xA;&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;Sys.setlocale(&amp;#39;LC_ALL&amp;#39;, &amp;quot;Chinese&amp;quot;)&lt;/code&gt;&lt;/pre&gt;&#xD;&#xA;&lt;pre&gt;&lt;code&gt;## [1] &amp;quot;LC_COLLATE=Chinese (Simplified)_China.936;LC_CTYPE=Chinese (Simplified)_China.936;LC_MONETARY=Chinese (Simplified)_China.936;LC_NUMERIC=C;LC_TIME=Chinese (Simplified)_China.936&amp;quot;&lt;/code&gt;&lt;/pre&gt;&#xD;&#xA;&lt;p&gt;Due to a problem of leafletCN package, which cannot distingguish Jilin city and Jilin province (also Hainan city and Hainan province), it cannot use demomap() to demo the map of Jilin city or province (also Hainan), see in a open issue in [github repo] (&lt;a href=&#34;https://github.com/badbye/baidumap/issues/19&#34; class=&#34;uri&#34;&gt;https://github.com/badbye/baidumap/issues/19&lt;/a&gt;). You know there is Jilin city in Jilin province:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Clinical notes: blood donation and syphilis test</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</link>
+      <link>http://localhost:4321/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</link>
       <pubDate>Mon, 25 May 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</guid>
-      <description>In the afternoon, the patients in the inpatient department are quiet and fall sleep. I usually go to the outpatient department, where I can talk and ask questions to the doctors when they are free.
-A doctor said that:
-“Many people got syphilis and are not be aware of that, but it’s not a problem. Because nowadays, people take antibiotics often, you know, even for a cold. Treponema pallidum is so easy to be killed.</description>
+      <guid>http://localhost:4321/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</guid>
+      <description>&lt;p&gt;In the afternoon, the patients in the inpatient department are quiet and fall sleep. I usually go to the outpatient department, where I can talk and ask questions to the doctors when they are free.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;A doctor said that:&lt;/p&gt;&#xD;&#xA;&lt;p&gt;“Many people got syphilis and are not be aware of that, but it’s not a problem. Because nowadays, people take antibiotics often, you know, even for a cold. &lt;em&gt;Treponema pallidum&lt;/em&gt; is so easy to be killed. Many patients found they were infected until they go to blood donation.”&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

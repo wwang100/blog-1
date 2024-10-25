@@ -2,185 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/tags/</link>
+    <link>http://localhost:4321/blog/tags/</link>
     <description>Recent content in Tags on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Dec 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/covid-19/</link>
+      <link>http://localhost:4321/blog/tags/covid-19/</link>
       <pubDate>Thu, 24 Dec 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/covid-19/</guid>
+      <guid>http://localhost:4321/blog/tags/covid-19/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Epidemic</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/epidemic/</link>
+      <link>http://localhost:4321/blog/tags/epidemic/</link>
       <pubDate>Thu, 24 Dec 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/epidemic/</guid>
+      <guid>http://localhost:4321/blog/tags/epidemic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hygiene</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/hygiene/</link>
+      <link>http://localhost:4321/blog/tags/hygiene/</link>
       <pubDate>Thu, 24 Dec 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/hygiene/</guid>
+      <guid>http://localhost:4321/blog/tags/hygiene/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>health disparities</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/health-disparities/</link>
+      <title>Health Disparities</title>
+      <link>http://localhost:4321/blog/tags/health-disparities/</link>
       <pubDate>Sat, 28 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/health-disparities/</guid>
+      <guid>http://localhost:4321/blog/tags/health-disparities/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>intracranial tuberculoma</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/intracranial-tuberculoma/</link>
+      <title>Intracranial Tuberculoma</title>
+      <link>http://localhost:4321/blog/tags/intracranial-tuberculoma/</link>
       <pubDate>Sat, 28 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/intracranial-tuberculoma/</guid>
+      <guid>http://localhost:4321/blog/tags/intracranial-tuberculoma/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>public health</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/public-health/</link>
+      <title>Public Health</title>
+      <link>http://localhost:4321/blog/tags/public-health/</link>
       <pubDate>Sat, 28 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/public-health/</guid>
+      <guid>http://localhost:4321/blog/tags/public-health/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diet</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/diet/</link>
+      <title>Diet</title>
+      <link>http://localhost:4321/blog/tags/diet/</link>
       <pubDate>Fri, 27 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/diet/</guid>
+      <guid>http://localhost:4321/blog/tags/diet/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nutrition</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/nutrition/</link>
+      <title>Nutrition</title>
+      <link>http://localhost:4321/blog/tags/nutrition/</link>
       <pubDate>Fri, 27 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/nutrition/</guid>
+      <guid>http://localhost:4321/blog/tags/nutrition/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pescetarian</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/pescetarian/</link>
+      <title>Pescetarian</title>
+      <link>http://localhost:4321/blog/tags/pescetarian/</link>
       <pubDate>Fri, 27 Nov 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/pescetarian/</guid>
+      <guid>http://localhost:4321/blog/tags/pescetarian/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blood donation</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/blood-donation/</link>
+      <title>Blood Donation</title>
+      <link>http://localhost:4321/blog/tags/blood-donation/</link>
       <pubDate>Sun, 28 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/blood-donation/</guid>
+      <guid>http://localhost:4321/blog/tags/blood-donation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>clinical</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/clinical/</link>
+      <title>Clinical</title>
+      <link>http://localhost:4321/blog/tags/clinical/</link>
       <pubDate>Sun, 28 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/clinical/</guid>
+      <guid>http://localhost:4321/blog/tags/clinical/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>syphilis</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/syphilis/</link>
+      <title>Syphilis</title>
+      <link>http://localhost:4321/blog/tags/syphilis/</link>
       <pubDate>Sun, 28 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/syphilis/</guid>
+      <guid>http://localhost:4321/blog/tags/syphilis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jilin</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/jilin/</link>
+      <link>http://localhost:4321/blog/tags/jilin/</link>
       <pubDate>Sat, 27 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/jilin/</guid>
+      <guid>http://localhost:4321/blog/tags/jilin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>US</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/us/</link>
+      <link>http://localhost:4321/blog/tags/us/</link>
       <pubDate>Sat, 27 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/us/</guid>
+      <guid>http://localhost:4321/blog/tags/us/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lupus</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/lupus/</link>
+      <title>Lupus</title>
+      <link>http://localhost:4321/blog/tags/lupus/</link>
       <pubDate>Fri, 05 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/lupus/</guid>
+      <guid>http://localhost:4321/blog/tags/lupus/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tuberculosis</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/tuberculosis/</link>
+      <title>Tuberculosis</title>
+      <link>http://localhost:4321/blog/tags/tuberculosis/</link>
       <pubDate>Fri, 05 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/tuberculosis/</guid>
+      <guid>http://localhost:4321/blog/tags/tuberculosis/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tberculoma</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/tberculoma/</link>
+      <title>Tberculoma</title>
+      <link>http://localhost:4321/blog/tags/tberculoma/</link>
       <pubDate>Thu, 04 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/tberculoma/</guid>
+      <guid>http://localhost:4321/blog/tags/tberculoma/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>schizoprenia</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/schizoprenia/</link>
+      <title>Schizoprenia</title>
+      <link>http://localhost:4321/blog/tags/schizoprenia/</link>
       <pubDate>Mon, 25 May 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/schizoprenia/</guid>
+      <guid>http://localhost:4321/blog/tags/schizoprenia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>society</title>
-      <link>https://green-ear-rabbit.github.io/blog/tags/society/</link>
+      <title>Society</title>
+      <link>http://localhost:4321/blog/tags/society/</link>
       <pubDate>Mon, 25 May 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/tags/society/</guid>
+      <guid>http://localhost:4321/blog/tags/society/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

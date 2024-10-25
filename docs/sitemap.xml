@@ -1,210 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2021/01/20/caregiver-during-childhood-is-associated-with-hiv-test-uptake-among-chinese-college-students-a-cross-sectional-study-in-suzhou-china/</loc>
+    <loc>http://localhost:4321/blog/</loc>
+    <lastmod>2021-01-22T21:13:54-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/post/</loc>
+    <lastmod>2021-01-22T21:13:54-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/22/using-r-to-filter-gene-mutation/</loc>
+    <lastmod>2021-01-22T21:13:54-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/20/caregiver-during-childhood-is-associated-with-hiv-test-uptake-among-chinese-college-students-a-cross-sectional-study-in-suzhou-china/</loc>
     <lastmod>2021-01-20T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2021/01/20/muslim-females-and-avoidance-of-health-care-services-in-china-a-nationally-representative-cross-sectional-study/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/20/gwas-in-r/</loc>
     <lastmod>2021-01-20T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/post/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/20/muslim-females-and-avoidance-of-health-care-services-in-china-a-nationally-representative-cross-sectional-study/</loc>
     <lastmod>2021-01-20T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2021/01/20/religious-involvement-is-associated-with-diabetes-self-management-among-chinese-diabetes-patients-a-cross-sectional-study/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/20/religious-involvement-is-associated-with-diabetes-self-management-among-chinese-diabetes-patients-a-cross-sectional-study/</loc>
     <lastmod>2021-01-20T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2021/01/20/supernatural-beliefs-intervention-to-enhance-type-2-diabetes-self-management-in-china-a-pilot-randomized-controlled-trial/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2021/01/20/supernatural-beliefs-intervention-to-enhance-type-2-diabetes-self-management-in-china-a-pilot-randomized-controlled-trial/</loc>
     <lastmod>2021-01-20T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/categories/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/covid-19/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/covid-19/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/epidemic/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/epidemic/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/hygiene/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/hygiene/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/12/24/hygienic-city-study-proposal-brief/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/12/24/hygienic-city-study-proposal-brief/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/categories/r/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/categories/r/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/</loc>
     <lastmod>2020-12-24T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/11/28/clinical-notes-health-disparities/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/11/28/clinical-notes-health-disparities/</loc>
     <lastmod>2020-11-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/health-disparities/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/health-disparities/</loc>
     <lastmod>2020-11-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/intracranial-tuberculoma/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/intracranial-tuberculoma/</loc>
     <lastmod>2020-11-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/public-health/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/public-health/</loc>
     <lastmod>2020-11-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/11/27/an-human-experiment-how-does-pescetarian-diet-affect-health/</loc>
     <lastmod>2020-11-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/diet/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/diet/</loc>
     <lastmod>2020-11-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/nutrition/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/nutrition/</loc>
     <lastmod>2020-11-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/pescetarian/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/pescetarian/</loc>
     <lastmod>2020-11-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/blood-donation/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/blood-donation/</loc>
     <lastmod>2020-06-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/clinical/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/clinical/</loc>
     <lastmod>2020-06-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/categories/clinical-notes/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/categories/clinical-notes/</loc>
     <lastmod>2020-06-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/06/28/r-visualization-of-jilin-epidemic/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/06/28/r-visualization-of-jilin-epidemic/</loc>
     <lastmod>2020-06-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/syphilis/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/syphilis/</loc>
     <lastmod>2020-06-28T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/jilin/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/jilin/</loc>
     <lastmod>2020-06-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/06/27/r-visualization-of-epidemic-in-united-states/</loc>
     <lastmod>2020-06-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/06/27/r-visualization-of-jilin-hospitals-for-patients-with-fever/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/06/27/r-visualization-of-jilin-hospitals-for-patients-with-fever/</loc>
     <lastmod>2020-06-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/us/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/us/</loc>
     <lastmod>2020-06-27T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</loc>
     <lastmod>2020-06-05T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/lupus/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/lupus/</loc>
     <lastmod>2020-06-05T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/tuberculosis/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/tuberculosis/</loc>
     <lastmod>2020-06-05T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</loc>
     <lastmod>2020-06-04T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/tberculoma/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/tberculoma/</loc>
     <lastmod>2020-06-04T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/05/25/clinical-notes-a-schizophrenia-patient/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/05/25/clinical-notes-a-schizophrenia-patient/</loc>
     <lastmod>2020-05-25T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/05/25/clinical-notes-blood-donation-and-syphilis-test/</loc>
     <lastmod>2020-05-25T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/schizoprenia/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/schizoprenia/</loc>
     <lastmod>2020-05-25T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/tags/society/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/tags/society/</loc>
     <lastmod>2020-05-25T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/2020/05/21/hello/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/2020/05/21/hello/</loc>
     <lastmod>2020-05-21T21:13:54-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/1/01/01/my-research-timeline-code/</loc>
+  </url><url>
+    <loc>http://localhost:4321/blog/1/01/01/using-r-to-get-data-from-web-page/</loc>
   </url>
-  
-  <url>
-    <loc>https://green-ear-rabbit.github.io/blog/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
 </urlset>

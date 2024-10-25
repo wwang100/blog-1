@@ -1,36 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tuberculosis on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/tags/tuberculosis/</link>
-    <description>Recent content in tuberculosis on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tuberculosis on A Hugo website</title>
+    <link>http://localhost:4321/blog/tags/tuberculosis/</link>
+    <description>Recent content in Tuberculosis on A Hugo website</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/tags/tuberculosis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/tags/tuberculosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clinical notes: a patients with lupus erythematosus</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</link>
+      <link>http://localhost:4321/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</link>
       <pubDate>Fri, 05 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</guid>
-      <description>A 19-year-old, rural, skinny girl diagnosed with lupus erythematosus.
-Sometimes I met and talk with her in the ward. Some of our talking are very impressive to me, both reflect environmental and social issues.
-After I take notes on her symptoms, I still want to ask more things, even if I am not supposed to do. I am always interested in how does people get disease. The lupus erythematosus, why does this disease come to her.</description>
+      <guid>http://localhost:4321/blog/2020/06/05/clinical-notes-a-patients-with-lupus-erythematosus/</guid>
+      <description>&lt;p&gt;A 19-year-old, rural, skinny girl diagnosed with lupus erythematosus.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Sometimes I met and talk with her in the ward. Some of our talking are very impressive to me, both reflect environmental and social issues.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;After I take notes on her symptoms, I still want to ask more things, even if I am not supposed to do. I am always interested in how does people get disease. The lupus erythematosus, why does this disease come to her.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Clinical notes: dementia caused by intracranial tuberculoma</title>
-      <link>https://green-ear-rabbit.github.io/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</link>
+      <link>http://localhost:4321/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</link>
       <pubDate>Thu, 04 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</guid>
-      <description>Tuberculosis is not only a disease in respiratory systems, it can infect many organs, for example, osseous tuberculosis, Intra-abdominal Tuberculosis and central nervous system .
-I saw one case of intracranial tuberculoma during my observation in Dept.TB. The patient have kind of cognitive decline, and there is several seconds delay when he answer people’s questions, come to hospital because disability of one leg. Then he was diagnosed as intracranial tuberculosis with TB after CT and a series of serum test.</description>
+      <guid>http://localhost:4321/blog/2020/06/04/clinical-notes-dementia-caused-by-intracranial-tuberculoma/</guid>
+      <description>&lt;p&gt;Tuberculosis is not only a disease in respiratory systems, it can infect many organs, for example, osseous tuberculosis, Intra-abdominal Tuberculosis and central nervous system .&lt;/p&gt;&#xD;&#xA;&lt;p&gt;I saw one case of intracranial tuberculoma during my observation in Dept.TB. The patient have kind of cognitive decline, and there is several seconds delay when he answer people’s questions, come to hospital because disability of one leg. Then he was diagnosed as intracranial tuberculosis with TB after CT and a series of serum test.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

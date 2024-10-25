@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on A Hugo website</title>
-    <link>https://green-ear-rabbit.github.io/blog/categories/</link>
+    <link>http://localhost:4321/blog/categories/</link>
     <description>Recent content in Categories on A Hugo website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Dec 2020 21:13:54 -0600</lastBuildDate>
-    
-	<atom:link href="https://green-ear-rabbit.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:4321/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://green-ear-rabbit.github.io/blog/categories/r/</link>
+      <link>http://localhost:4321/blog/categories/r/</link>
       <pubDate>Thu, 24 Dec 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/categories/r/</guid>
+      <guid>http://localhost:4321/blog/categories/r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Clinical Notes</title>
-      <link>https://green-ear-rabbit.github.io/blog/categories/clinical-notes/</link>
+      <link>http://localhost:4321/blog/categories/clinical-notes/</link>
       <pubDate>Sun, 28 Jun 2020 21:13:54 -0600</pubDate>
-      
-      <guid>https://green-ear-rabbit.github.io/blog/categories/clinical-notes/</guid>
+      <guid>http://localhost:4321/blog/categories/clinical-notes/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
